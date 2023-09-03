@@ -1,4 +1,4 @@
-from platform import system
+gfrom platform import system
 import sys
 def testPY():
     if(sys.version_info[0] < 3):
